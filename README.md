@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-The purpose of this analysis is to provide insights on the three different city types: urbal, suburban, and rural. We will be looking at different statistics such as ride count, driver count, and fares for each of the city types.
+The purpose of this analysis is to provide insights on the three different city types: urban, suburban, and rural. We will be looking at different statistics such as ride count, driver count, fares per ride, etc. for each of the city types.
 
 ## Resources
 - Data Source: city_data.csv and ride_data.csv
